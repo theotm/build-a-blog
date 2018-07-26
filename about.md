@@ -13,4 +13,5 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [c4kmaker@computers4kids.net](mailto:c4kmaker@computers4kids.net)
-![](/images/Alcea_rosea_and_blue_sky.jpg)
+
+![Flowers]({{site.baseurl}}/images/Alcea_rosea_and_blue_sky.jpg)
