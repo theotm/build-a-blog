@@ -11,4 +11,4 @@ book.
 When I had my final 3D model of the data, I went to print it. When I printed in the first time it kind of folded over on itself and made 
 it look like a disfigured square. The second time I printed it I printed it on it's side and it worked out much butter. 
 
-img src="images/r-avocado.png" alt="R Data" height="100" width="100"
+<img src="images/r-avocado.png" alt="R Data" height="100" width="100">
