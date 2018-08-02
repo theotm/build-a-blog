@@ -10,3 +10,5 @@ I used the r2stl package to create my 3D model. It took a lot of messing around 
 book.  
 When I had my final 3D model of the data, I went to print it. When I printed in the first time it kind of folded over on itself and made 
 it look like a disfigured square. The second time I printed it I printed it on it's side and it worked out much butter. 
+
+<img src="r avocado.png" alt="R Data" height="42" width="42">
